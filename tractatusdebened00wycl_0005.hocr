@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tractatusdebened00wycl_0005.png"; bbox 0 0 2028 3346; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 400 1590 1527 1655">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 400 1590 1527 1655">
+     <span class='ocr_line' id='line_1_1' title="bbox 400 1590 1527 1655; baseline -0.003 -10"><span class='ocrx_word' id='word_1_1' title='bbox 400 1590 695 1648; x_wconf 64' lang='lat' dir='ltr'>OEtattattffl</span> <span class='ocrx_word' id='word_1_2' title='bbox 720 1593 782 1646; x_wconf 67' lang='grc' dir='ltr'><strong>ΠΒ</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 806 1590 1102 1647; x_wconf 71' lang='grc' dir='ltr'><strong>ΊΒΒῙΊΒΠῘίΐᾶ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1126 1590 1527 1655; x_wconf 68' lang='grc' dir='ltr'><strong>ΞῘῙῙΕᾶῖῙῙᾶίίῦῙῘΒ.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
